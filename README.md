@@ -1,4 +1,6 @@
 # SensorServer
+:whale2:Warning: This is for test only, there's differences with the production server.
+
 To start, go to project folder, in your terminal enter:
 
 ```sudo npm init```
