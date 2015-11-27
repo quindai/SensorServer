@@ -1,5 +1,5 @@
 # SensorServer
-:whale2:Warning: This is for test only, there's differences with the production server.
+:whale2:Warning: This is for test only, there's differences with the production server.:mushroom:
 
 To start, go to project folder, in your terminal enter:
 
