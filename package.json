@@ -1,0 +1,27 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Servidor restful para os sensores (Laccan)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sensor",
+    "sensornet",
+    "laccan",
+    "ufal",
+    "mobile",
+    "server"
+  ],
+  "author": "randy quindai",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.2.8",
+    "validator": "^4.3.0"
+  },
+  "devDependencies": {}
+}

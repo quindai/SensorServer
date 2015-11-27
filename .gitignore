@@ -17,6 +17,9 @@ gen/
 build/
 /*/build/
 
+# Node Modules
+node_module/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
